@@ -97,3 +97,4 @@ La calidad de servicio en una red (QoS) se centra en la experiencia de usuario y
 La calidad del servicio, es importante en una red de datos, ya que administra los parámetros de la pérdida de paquetes o retrasos en una red, priorizando así los tipos de paquetes de datos que deben enviarse, a expensa de los que se pueden retrasar o descartar. Además los mecanismos que provee la calidad de servicios, permite establecer la asignación de prioridades mediante colas de prioridad, garantiza un servicio claro y continuo en audios o video streaming.
 Es importante resaltar que la calidad de servicio en una red es un tema vital y crucial, como ejemplo podemos tomar las consecuencias que se tendrían si se descarta una llamada de ayuda en un centro de emergencias o si se pierde la señal de control en una máquina peligrosa o pesada.
 
+
