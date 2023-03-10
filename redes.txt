@@ -173,4 +173,3 @@ Cada capa en el modelo usa la PDU para comunicarse e intercambiar información, 
 
 Ejemplo: El TPDU de origen se comunica con el TPDU destino, independientemente de lo que transporte la trama.
 
-
