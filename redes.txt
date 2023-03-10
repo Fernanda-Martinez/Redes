@@ -59,6 +59,7 @@ Los datos son en general la información que se transmite dentro de la red, todo
 Las redes de datos, son las que comunican todos los dispositivos, herramientas y servicios basadas en red a las que pueda tener acceso. Conforman los millones de canales que asocian todos estos conceptos a una misma red intercomunicada entre sí.
 Las redes convergentes se diferencian de las demás en el sentido que pueden transportar múltiples datos de múltiples formatos sin la necesidad de diferenciación, todas focalizadas en una única red que se encarga de gestionarlo todo, es decir, servicios como la telefonía, el internet y la televisión, puede ser entregado mediante una misma y única red.
 
+
 7. Describir las características de las arquitecturas de red: tolerante a fallas,
 escalabilidad, calidad del servicio y seguridad. Mostrar sus respectivos
 ejemplos.
@@ -74,3 +75,4 @@ Servicios de Tripleplay ofrecidos por distintos proveedores son un ejemplo de es
 
 La seguridad en las redes está mayormente definida por protocolos y estrategias de seguridad que implica el acceso limitado a servicios y datos de acuerdo a distintas autenticaciones, éstas estrategias pueden variar según de la internetwork específica o de la aplicación que se utiliza.
 Actualmente la mayoría de aplicaciones y redes empresariales requieren de una autenticación de usuario para dar acceso a todos los servicios que ofrece o a servicios limitados de acuerdo al rango de usuario dentro de la red.
+
