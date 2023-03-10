@@ -81,3 +81,4 @@ Actualmente la mayoría de aplicaciones y redes empresariales requieren de una a
 Redes orientadas a la conexión: Una vez que esté establecido el circuito, no importa si las personas, no están en comunicación constante en la llamada o al pendiente de su teléfono, el circuito permanece conectado y los recursos se reservan, hasta que alguna de las personas decida desconectar la llamada. Y se asegura y garantiza la calidad y consistencia de los mensajes transmitidos.
 
 Redes no orientadas a la conexión: Significa una comunicación, en la que en un extremo de la comunicación se transmiten datos al otro lado, sin tener en cuenta que quien los recibe va a estar disponible o listo para ver los datos.Una red en los que un mensaje puede ser enviado desde un punto final a otro sin acuerdo previo.
+
