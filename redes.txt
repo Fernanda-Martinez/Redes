@@ -91,3 +91,37 @@ buena calidad de servicio para las aplicaciones que lo requieren.
 
 La calidad de servicio en una red (QoS) se centra en la experiencia de usuario y en el correcto uso de los recursos para garantizar una red con servicios seguros, predecibles y mensurables. Para ello, se necesitan mecanismos que permitan garantizar todas estas características. Mecanismos como la asignación de prioridades son fundamentales para la asignación de ancho de banda a los servicios que requieran de un mayor flujo de datos para su correcto desempeño. Estableciendo colas de prioridad ante las tareas más relevantes tanto en términos de acceso y ocupación de red.
 
+
+10. ¿Por qué importa la calidad del servicio en una red de datos?
+
+La calidad del servicio, es importante en una red de datos, ya que administra los parámetros de la pérdida de paquetes o retrasos en una red, priorizando así los tipos de paquetes de datos que deben enviarse, a expensa de los que se pueden retrasar o descartar. Además los mecanismos que provee la calidad de servicios, permite establecer la asignación de prioridades mediante colas de prioridad, garantiza un servicio claro y continuo en audios o video streaming.
+Es importante resaltar que la calidad de servicio en una red es un tema vital y crucial, como ejemplo podemos tomar las consecuencias que se tendrían si se descarta una llamada de ayuda en un centro de emergencias o si se pierde la señal de control en una máquina peligrosa o pesada.
+
+Preguntas de lectura: Capítulo 2
+
+1. Describir la estructura de una red, incluidos los dispositivos, medios y
+servicios necesarios para lograr comunicaciones exitosas.
+
+La comunicación comienza con un mensaje o información, que se debe enviar de una persona a otra, cada uno de estos mensajes, pueden enviarse a través de una red, convirtiéndolos primero en dígitos binarios o bits, luego los bits se codifican en una señal apropiada, según sea el medio. En las redes de computadoras, generalmente el medio es una transmisión inalámbrica o un tipo de  cable.
+La infraestructura de la red, proporciona el cable estable y confiable por el cual se producen las comunicaciones.
+
+Dispositivos
+Tanto los dispositivos como los medios, son elementos físicos o hardware de la red, este es el componente que podemos observar (computadoras o cableado de uso para conectar dispositivos). Aunque en algunos casos, podemos observar que los componentes no son visibles, como en el caso de los medios inalámbricos (radiofrecuencias, ondas infrarrojas).
+
+Los dispositivos con los que estamos familiarizados, se denominan dispositivos finales, los cuales constituyen la interfaz entre la red humana y la red de comunicación subyacente, como los computadores, impresoras, teléfonos VoIP, etc. En la red, este dispositivo final se denomina host, el cual puede ser el origen o destino de un mensaje, también puede ser servidor o cliente o incluso ambos. Estos tienen una dirección propia para ser diferenciados, y el software instalado determina el rol que representan.
+
+También podemos encontrar que la redes dependen de dispositivos intermediarios que proporcionan conectividad y garantizan que los datos fluyan a través de la red,estos  conectan los hosts individuales a la red y pueden conectar varias redes individuales para formar una internetwork, entre ellos encontramos: routers, modems, firewalls, switches.
+
+Medios
+A través de un medio podemos transportar la comunicación en la red, este es el canal por el cual viaja un mensaje. Los medios suelen ser: hilos metálicos dentro de cables, fibras de vidrio o plástico y transmisiones inalámbricas, para cada una de estos medios existe cierto tipo de codificación, en los hilos, los datos se codifican dentro de impulso eléctricos con patrones; en las fibras se depende de pulsos de luz, en intervalos de luz visible o infrarroja y en las transmisiones inalámbricas, los bits son mostrados por patrones de ondas electromagnéticas.
+
+Para seleccionar el medio, se tienen en cuenta los siguientes criterios:. 
+
+• la distancia en la cual el medio puede transportar exitosamente una señal,
+• el ambiente en el cual se instalará el medio,
+• la cantidad de datos y la velocidad a la que se deben transmitir, y
+• el costo del medio y de la instalación.
+
+Servicios
+Los servicios y procesos son la parte software, la cual se ejecuta en los dispositivos conectados a la red, estos proporcionan respuesta a una solicitud.  Los servicios son host que tienen software instalado, el cual les permite proporcionar información y servicios, incluyen una gran cantidad de apps de uso diario como los servicios de e-mail, mientras que los procesos no son tan obvios para los usuarios, son fundamentales para el funcionamiento de la red.
+
