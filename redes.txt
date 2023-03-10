@@ -34,7 +34,6 @@ Gmail: Es un servicio de correo electrónico, en el cual podemos mandar un mensa
 Snapchat: Es una aplicación de mensajería, en la que además de enviar chats,  principalmente podemos intercambiar fotos instantáneamente con otras personas, y si deseamos nuestra ubicación.
 
 TIk tok: Es una aplicación de mensajería, en la cual podemos hablar con personas a las cuales seguimos y nos siguen; además podemos compartirles videos que nos parezcan interesantes o incluso grabar nuestros propios vídeos con un tiempo limitado.
-
 4. Describir los factores que afectan la calidad de las comunicaciones.
 
 Calidad de ruta entre el emisor y el receptor, la calidad en la señal de red que conecta dos dispositivos que tratan de comunicarse es uno de los principales factores que pueden afectar los tiempos de envío y recepción de un mensaje, así como también de la conservación y seguridad del mismo durante el trayecto.
@@ -43,4 +42,18 @@ Cantidad de veces que el mensaje debe ser redirigido o redireccionado. Si el men
 Cantidad de mensajes en simultáneo en la red. En grandes cantidades, el tráfico puede afectar en gran medida la velocidad de transmisión, normalmente el transporte de mensajes se hace de forma concurrente en servicios grandes, por lo que ayuda a mitigar este problema, de igual manera, esto implica posibles redirecciones.
 Tiempo asignado a la comunicación. Todos los procesos tienen un tiempo máximo para que se realicé la transmisión, en caso de que éste se exceda sencillamente se cancela dentro del sistema y es necesario volver a intentarlo, pues no es un proceso que se repita automáticamente en la mayoría de casos.
 Otros factores internos como el tamaño, complejidad y prioridad del mensaje, normalmente en caso de enviar mensajes en simultáneo o con una pequeña brecha de tiempo, el mensaje con menor tamaño y complejidad tiende a ser el objetivo primordial del sistema, en condiciones óptimas esta priorización no debería notarse pero en casos de redes limitadas, es un factor determinante.
- 
+
+5. Identificar los componentes clave de cualquier red de datos y describir su
+funcionamiento.
+
+Mensajes: Son tal cual, el componente en el que se centra toda la red. Son los primeros en ser tratados, al entrar en la fase de envío, donde su información es tratada y segmentada en bits para todos los casos. Una vez se realiza la conversión al estado mínimo de datos, se envía a la red para su procesamiento.
+Dispositivos: Son la parte física o hardware intercomunicado en una red, partes que van desde los computadores, smartphones, cámaras, relojes, etc… Que puedan comunicarse a una red de forma inalámbrica o alámbrica, proceso que puede hacerse gracias a un router que conecta las redes por diversos medios, ya sea cableado o satelital. Son quienes se encargan de brindar un camino de comunicación eficaz y rápida.
+Medios: Cuando hay dispositivos conectados a una red, son los medios los que permiten transportar toda la información y dar acceso a los propios dispositivos de trabajo en la red. Existen medios tanto alámbricos como inalámbricos, que se usan en distintos contextos. Actualmente la conexión a Internet mediante un cable Ethernet supone una conexión de mayor calidad en caso de necesitar fiabilidad total y velocidad. Por otra parte, la conexión inalámbrica ofrece una mayor comodidad y flexibilidad a la cantidad de dispositivos que pueden trabajar con ella sin necesitar de equipo extra como un cable.
+Servicios: En simples palabras son todas las páginas, sitios o aplicaciones que permiten a un usuario conectarse a Internet, siendo la primordial el navegador cuyo principal propósito es dar acceso a Internet. Aplicaciones de streaming, mensajería, juegos, noticias, etc… Son los servicios que brindan acceso a la red, que son accesibles tanto para el receptor como para el emisor.
+Reglas: Son protocolos, estándares que permiten un desarrollo globalizado de redes enfocado en la seguridad y mantenimiento de una red, las cuales especifican la forma de enviar un mensaje y cómo tratarlo durante el proceso de transmisión, para minimizar errores y asegurar la integridad del mensaje.
+
+6. Responda brevemente, ¿Qué son los datos? ¿Qué es una red de datos? ¿Qué es una red convergente?
+
+Los datos son en general la información que se transmite dentro de la red, todo lo que se envía, se manipula y se recibe, son datos binarios que conforman un mensaje.
+Las redes de datos, son las que comunican todos los dispositivos, herramientas y servicios basadas en red a las que pueda tener acceso. Conforman los millones de canales que asocian todos estos conceptos a una misma red intercomunicada entre sí.
+Las redes convergentes se diferencian de las demás en el sentido que pueden transportar múltiples datos de múltiples formatos sin la necesidad de diferenciación, todas focalizadas en una única red que se encarga de gestionarlo todo, es decir, servicios como la telefonía, el internet y la televisión, puede ser entregado mediante una misma y única red.
