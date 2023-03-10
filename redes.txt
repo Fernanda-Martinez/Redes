@@ -59,3 +59,25 @@ Los datos son en general la información que se transmite dentro de la red, todo
 Las redes de datos, son las que comunican todos los dispositivos, herramientas y servicios basadas en red a las que pueda tener acceso. Conforman los millones de canales que asocian todos estos conceptos a una misma red intercomunicada entre sí.
 Las redes convergentes se diferencian de las demás en el sentido que pueden transportar múltiples datos de múltiples formatos sin la necesidad de diferenciación, todas focalizadas en una única red que se encarga de gestionarlo todo, es decir, servicios como la telefonía, el internet y la televisión, puede ser entregado mediante una misma y única red.
 
+
+7. Describir las características de las arquitecturas de red: tolerante a fallas,
+escalabilidad, calidad del servicio y seguridad. Mostrar sus respectivos
+ejemplos.
+
+Una red con tolerancia a fallos cuenta con conexiones redundantes, a diversos servidores, lo cual garantiza que si un servidor falla, la información puede ser redirigida a otro servidor de forma instantánea, siguiendo con la línea normal de transporte de los datos, sin que el usuario se de cuenta. 
+Un ejemplo son las redes CDN, las cuales cumplen tal cual con esta función de tolerancia a fallos, todas las aplicaciones de streaming usan redes CDN y en general la mayoría de aplicaciones con mucho tráfico cuentan con una.
+
+Las redes escalables permiten el acceso masivo de nuevos usuarios sin afectar rendimiento, para esto, se usan diversos servidores que reciben las conexiones más óptimas en cuanto a distancia y disponibilidad, para no interrumpir o afectar de ningún modo la experiencia de los usuarios ya conectados.
+Los servicios de mensajería instantánea, como Whatsapp, Telegram, Hangouts, usan redes escalables que permiten el tráfico masivo sin afectar a otros usuarios.
+
+La calidad de servicio en la red está dada por la prioridad del tráfico dentro de la misma, servicios más exigentes como la reproducción de vídeo, necesitan de un mayor y continúo flujo de datos que otros servicios. En caso de redes convergentes, los servicios de streaming suelen ser prioritarios para mantener una reproducción estable y continua a una calidad deseada, por lo que otros servicios como el acceso a sitios o aplicaciones pasan a un segundo plano en cuanto a nivel de prioridad.
+Servicios de Tripleplay ofrecidos por distintos proveedores son un ejemplo de estos casos de prioridad ante la necesidad de servicio.
+
+La seguridad en las redes está mayormente definida por protocolos y estrategias de seguridad que implica el acceso limitado a servicios y datos de acuerdo a distintas autenticaciones, éstas estrategias pueden variar según de la internetwork específica o de la aplicación que se utiliza.
+Actualmente la mayoría de aplicaciones y redes empresariales requieren de una autenticación de usuario para dar acceso a todos los servicios que ofrece o a servicios limitados de acuerdo al rango de usuario dentro de la red.
+
+8. Investigar qué son las redes orientadas y no orientadas a la conexión.
+
+Redes orientadas a la conexión: Una vez que esté establecido el circuito, no importa si las personas, no están en comunicación constante en la llamada o al pendiente de su teléfono, el circuito permanece conectado y los recursos se reservan, hasta que alguna de las personas decida desconectar la llamada. Y se asegura y garantiza la calidad y consistencia de los mensajes transmitidos.
+
+Redes no orientadas a la conexión: Significa una comunicación, en la que en un extremo de la comunicación se transmiten datos al otro lado, sin tener en cuenta que quien los recibe va a estar disponible o listo para ver los datos.Una red en los que un mensaje puede ser enviado desde un punto final a otro sin acuerdo previo.
