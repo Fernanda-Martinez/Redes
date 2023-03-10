@@ -199,6 +199,7 @@ Capa de Internet: Es la comunicación entre computadores, determinando la mejor 
 Capa de acceso a la red: Es la comunicación con el medio de transmisión(alámbrico e inalámbrico), controlando los dispositivos del hardware y los medios que forman la red.
 
 Modelo OSI
+
 Tiene 7 capas:
 
 7. Capa de  aplicación: Es la que proporciona los medios para conectar de extremo a extremo los individuos que usan la red de datos.
