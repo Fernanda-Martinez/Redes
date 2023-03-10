@@ -153,7 +153,31 @@ El puerto físico cumple una función similar, pero éste cuenta con una posibil
 
 La interfaz de red por su parte cuenta con posibles conexiones más específicas que interconectan individualmente a dispositivos a una red de internetworking, mecanismo que maneja la mayor parte de router actuales que permiten la conexión simultánea de múltiples dispositivos en su hardware.
 
+
 5. ¿Por qué se dice que un protocolo es independiente de la tecnología?
 
 Un protocolo se dice que es independiente de la tecnología porque al usar un protocolo de red para describir las funciones que se producen durante las comunicaciones, el protocolo no describe cómo se deba cumplir esa función en particular, solo describe la función  que se requiere pero no como realizarla.
 Por esto mismo, muchos tipos de dispositivos pueden comunicarse con los mismos conjuntos de protocolos, ya que estos especifican la funcionalidad de la red, mas no la tecnología que admitirá esta funcionalidad.
+
+6. Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo
+(PDU).
+
+Las PDU, son utilizadas en el intercambio de datos entre unidades disparejas dentro de una capa del modelo OSI. Podemos encontrar dos clases:
+• PDU de datos, que contiene los datos del usuario principal (en el caso de la capa de aplicación) o la PDU del nivel inmediatamente inferior.
+• PDU de control, que sirven para gobernar el comportamiento completo del protocolo en sus funciones de establecimiento y unión de la conexión, control de flujo, control de errores, etc. No contienen información alguna proveniente del nivel N+1.
+
+Cada capa del modelo OSI en el origen debe comunicarse con cada capa igual en el destino(comunicación de peer to peer (de igual a igual)).
+
+Durante este proceso, cada protocolo de capa intercambian información en lo que se conoce como unidades de datos, entre capas iguales. Cada capa de comunicación, en el computador origen, se comunica con un PDU específico de la misma capa en el computador destino.
+Cada capa en el modelo usa la PDU para comunicarse e intercambiar información, que solo puede leer la capa de igual en el dispositivo receptor y luego se entrega a la siguiente capa superior después de la extracción.
+
+Ejemplo: El TPDU de origen se comunica con el TPDU destino, independientemente de lo que transporte la trama.
+
+7. Explicar la función de los protocolos en las comunicaciones de redes y para
+qué es el proceso de encapsulamiento de los datos (ilustrar el nombre que
+adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
+
+Los protocolos de comunicación funcionan como estrategias para el correcto funcionamiento de un sistema de red globalizado y que puedan ser gestionadas siguiendo una serie de patrones e indicaciones a nivel mundial. En primer lugar, los protocolos son los encargados de establecer formatos y brindar acceso a cualquier dispositivo que deseé conectarse a la red sin considerar hardware o software específico. Se encargan de realizar un proceso de comunicación seguro y garantizar un correcto funcionamiento de los mismos en caso de que algún dispositivo de la red falle o existan interferencias en la red hasta haber cumplido con la comunicación entre los dispositivos.
+
+El proceso de encapsulación de las PDU funciona como un medio para mantener la integridad de los datos durante el proceso de comunicación, al necesitar segmentar, agregar o modificar información pertinente sin que el mensaje inicial se vea afectado negativamente por posible pérdida o corrupción de datos.
+
