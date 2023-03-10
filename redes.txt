@@ -126,4 +126,16 @@ Para seleccionar el medio, se tienen en cuenta los siguientes criterios:.
 Servicios
 Los servicios y procesos son la parte software, la cual se ejecuta en los dispositivos conectados a la red, estos proporcionan respuesta a una solicitud.  Los servicios son host que tienen software instalado, el cual les permite proporcionar información y servicios, incluyen una gran cantidad de apps de uso diario como los servicios de e-mail, mientras que los procesos no son tan obvios para los usuarios, son fundamentales para el funcionamiento de la red.
 
+2. Comparar y contrastar los siguientes términos: RED, LAN, WAN,
+INTERNETWORK E INTERNET.
+
+Una RED es un medio de comunicación capaz de interconectar múltiples dispositivos, que pueden operar con datos e información ligada a los usuarios conectados a esa misma red. Las redes en general pueden estar conformadas por múltiples paradigmas y enfoques dependiendo del uso que se les de, son el concepto más amplio de intercomunicación estrecha entre dos o más dispositivos.
+
+LAN por su parte se refiere a un tipo de red local como dicta su nombre Local Area Network, las redes de área local están establecidas en todo lugar donde haya dos o más dispositivos conectados a una misma red a través de un switch que se comunica con el exterior, estás redes pueden ser tanto alámbricas como inalámbricas, pero en términos generales están limitadas en distancia física a los dispositivos cercanos dentro del hogar, empresa o edificio.
+
+Las redes WAN también son redes de estrecha ligadura con dispositivos que pertenezcan a un mismo entorno, con la enorme diferencia de la distancia que ésta abarca. Las redes WAN son de larga distancia, por lo que pueden comunicar redes que estén separadas geográficamente pero pertenezcan a una misma red organizacional. Una red WAN puede conectar múltiples redes LAN para permitir la comunicación directa dentro de la red, para todos los dispositivos asociados.
+
+La INTERNETWORK es en sí misma un conjunto de redes globales que están interconectadas entre sí. Los IPS o proveedores de servicios de Internet cuentan con este tipo de mecanismos para brindar una amplio acceso a millones de usuarios en todo el planeta. El Internet en sí mismo es una Internetwork, por tanto es importante esclarecer que las internetworks pueden ser privadas y confidenciales sólo para dispositivos asociados, siguiendo estándares y protocolos internacionales.
+
+El INTERNET es posiblemente la red global más conocida y usada, en sí misma es un conjunto de redes descentralizadas e interconectadas de dominio público en su mayoría, existen muchas redes dentro del Internet, como el World Wide Web, siendo una de las redes más grandes y utilizadas a nivel mundial como un conjunto de protocolos para la visualización y búsqueda de información, también existen redes de empresas privadas que comporten con el público con el fin de ofrecer servicios que el usuario pueda necesitar.
 
