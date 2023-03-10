@@ -139,6 +139,22 @@ La INTERNETWORK es en sí misma un conjunto de redes globales que están interco
 
 El INTERNET es posiblemente la red global más conocida y usada, en sí misma es un conjunto de redes descentralizadas e interconectadas de dominio público en su mayoría, existen muchas redes dentro del Internet, como el World Wide Web, siendo una de las redes más grandes y utilizadas a nivel mundial como un conjunto de protocolos para la visualización y búsqueda de información, también existen redes de empresas privadas que comporten con el público con el fin de ofrecer servicios que el usuario pueda necesitar.
 
+
 3. ¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
 
 Por una parte el Internet es una red global que se encuentra a nivel global como un servicio, por otra parte, el internetwork es una red específica centrada en la interconexión específica de dispositivos. Es decir, el internetwork empieza desde el concepto de intercomunicación mientras el Internet es un servicio que se encarga de conectar con el mundo, por lo tanto, el Internet es una red dentro de una internetwork que opera a nivel mundial y tiene como objetivo comunicar todo el globo terráqueo.
+
+
+4. Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e interfaz de red.
+
+La tarjeta de interfaz de red NIC (Network Interface Card) es tal cual un adaptador de red que se conecta directamente de manera física al dispositivo, se trata de una entrada de LAN que brinda conexión al router local.
+ 
+El puerto físico cumple una función similar, pero éste cuenta con una posibilidad de conexión más global a un host de red o cualquier otro dispositivo de estas características.
+
+La interfaz de red por su parte cuenta con posibles conexiones más específicas que interconectan individualmente a dispositivos a una red de internetworking, mecanismo que maneja la mayor parte de router actuales que permiten la conexión simultánea de múltiples dispositivos en su hardware.
+
+
+3. ¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
+
+Por una parte el Internet es una red global que se encuentra a nivel global como un servicio, por otra parte, el internetwork es una red específica centrada en la interconexión específica de dispositivos. Es decir, el internetwork empieza desde el concepto de intercomunicación mientras el Internet es un servicio que se encarga de conectar con el mundo, por lo tanto, el Internet es una red dentro de una internetwork que opera a nivel mundial y tiene como objetivo comunicar todo el globo terráqueo.
+
