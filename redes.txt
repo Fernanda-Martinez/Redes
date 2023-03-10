@@ -15,3 +15,22 @@ Desde que nos levantamos hasta que llega la noche, encontramos gran importancia 
 4. También para el tema de seguridad encontramos que es posible mandar nuestra ubicación en tiempo real a algún familiar o conocido cercano, así esta persona puede estar al pendiente de nosotros.
 5. Podemos compartir recuerdos o momentos que nos parezcan interesantes, enviando una fotografía del objeto o lugar instantáneamente.
 6. En el caso de tener alguna duda de un tema que no conocemos o simple curiosidad por responder algo, podemos buscarlo de manera inmediata y acceder a toda la información acerca de este.
+
+3. Dar ejemplos de herramientas de comunicación que utiliza o ha utilizado
+Podemos encontrar varias herramientas de comunicación, uns más conocidas que otras, pero en este caso, las que más usamos son:
+
+whatsApp: Es una aplicación de mensajería instantánea para teléfonos inteligentes, la cual permite enviar y recibir mensajes a través de internet, y no solo eso, también es posible enviar y recibir  imágenes, videos, audios, notas de voz, documentos, ubicaciones, contactos, gifs, stickers, así como llamadas y videollamadas con varios participantes a la vez, entre otras cosas y esta se integra automáticamente a la libreta de contactos del celular, asi que no es necesario agregar a alguien dos veces.
+
+Google Meet: Es un servicio de llamada o videollamada, desarrollado por google, la cual permite tener una reunión con personas sin importar su ubicación, ya que es a través de internet y mediante un único link, creado por un organizador, pueden acceder todas las personas invitadas. Estas reuniones se pueden programar a lo largo de un mes, trimestre, semestre o año, siendo bastante accesible, ya que a diferencia de otros servicios de llamada, esta no necesita ser instalada, sólo se hace uso del internet.
+
+Discord: Es un servicio de mensajería instantánea y chat de voz VolP  (Voice Over Internet Protocol). Funciona a través de servidores y está separado en canales de texto o de voz, se necesita crear un canal o ser invitado a uno, para poder hablar con las personas y hacer uso de sus diferentes funcionalidades.
+
+Messenger: Es una aplicación de mensajería, en la cual podemos contactarnos con personas que tengamos en nuestra lista de amigos de Facebook, o incluso hay una opción para ver que personas de nuestra lista de contactos, tienen acceso a esta aplicación. En ella podemos enviar mensajes, fotos, videos, audios e incluso hacer llamadas y videollamadas.
+
+Imessage: Es un servicio de mensajería instantánea desarrollado por Apple, la cual permite a los usuarios enviar texto, documentos, fotos, vídeos, mensajes en grupo por medio de redes de datos móviles o Wi-Fi, lo limitante de esta aplicación es que solo funciona para usuarios con sistema IOS.
+
+Gmail: Es un servicio de correo electrónico, en el cual podemos mandar un mensaje mediante una dirección de correo a una o varias personas, según sea nuestra necesidad, también podemos adjuntar fotos, videos(respetando cierto tamaño), y direcciones URL, del mismo modo, también podemos recibir estas.
+
+Snapchat: Es una aplicación de mensajería, en la que además de enviar chats,  principalmente podemos intercambiar fotos instantáneamente con otras personas, y si deseamos nuestra ubicación.
+
+TIk tok: Es una aplicación de mensajería, en la cual podemos hablar con personas a las cuales seguimos y nos siguen; además podemos compartirles videos que nos parezcan interesantes o incluso grabar nuestros propios vídeos con un tiempo limitado.
