@@ -1,21 +1,6 @@
 1. Describir el efecto que tienen las redes en nuestra vida cotidiana.
-R//: La influenia de las redes en nuestra vida es que es una gran ayuda para nejorar la calidad de vida
-de las personas, ayudandolo en acciones cotiidnats 
 
-
-
-
-2. Listar las actividades cotidianas que realiza usted utilizando internet
-3. Dar ejemplos de herramientas de comunicación que utiliza o ha utilizado
-4. Describir los factores que afectan la calidad de las comunicaciones.
-5. Identificar los componentes clave de cualquier red de datos y describir su
-funcionamiento.
-6. Responda brevemente, ¿Qué son los datos? ¿Qué es una red de datos? ¿Qué
-es una red convergente?
-7. Describir las características de las arquitecturas de red: tolerante a fallas,
-escalabilidad, calidad del servicio y seguridad. Mostrar sus respectivos
-ejemplos.
-8. Investigar qué son las redes orientadas y no orientadas a la conexión.
-9. Describa que es la calidad del servicio y que se necesita para mantener una
-buena calidad de servicio para las aplicaciones que lo requieren.
-10. ¿Por qué importa la calidad del servicio en una red de datos?
+En nuestra vida cotidiana vemos la influencia de las redes de manera positiva, ya que las interacciones sociales,
+comerciales, políticas y personales han evolucionado de tal manera que es más fácil contactar con todos en un solo lugar o 
+momento sin la necesidad de buscar a uno por uno, teniendo en cuenta que la comunicación es parte fundamental de nuestro día a día, 
+eliminando cualquier frontera, distancia o limitación, mejorando así la calidad de vida de los individuos.
