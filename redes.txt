@@ -1,3 +1,5 @@
+Preguntas de lectura: Capítulo 1
+
 1. Describir el efecto que tienen las redes en nuestra vida cotidiana.
 
 En nuestra vida cotidiana vemos la influencia de las redes de manera positiva, ya que las interacciones sociales,
@@ -34,6 +36,7 @@ Gmail: Es un servicio de correo electrónico, en el cual podemos mandar un mensa
 Snapchat: Es una aplicación de mensajería, en la que además de enviar chats,  principalmente podemos intercambiar fotos instantáneamente con otras personas, y si deseamos nuestra ubicación.
 
 TIk tok: Es una aplicación de mensajería, en la cual podemos hablar con personas a las cuales seguimos y nos siguen; además podemos compartirles videos que nos parezcan interesantes o incluso grabar nuestros propios vídeos con un tiempo limitado.
+
 4. Describir los factores que afectan la calidad de las comunicaciones.
 
 Calidad de ruta entre el emisor y el receptor, la calidad en la señal de red que conecta dos dispositivos que tratan de comunicarse es uno de los principales factores que pueden afectar los tiempos de envío y recepción de un mensaje, así como también de la conservación y seguridad del mismo durante el trayecto.
@@ -76,3 +79,13 @@ Servicios de Tripleplay ofrecidos por distintos proveedores son un ejemplo de es
 La seguridad en las redes está mayormente definida por protocolos y estrategias de seguridad que implica el acceso limitado a servicios y datos de acuerdo a distintas autenticaciones, éstas estrategias pueden variar según de la internetwork específica o de la aplicación que se utiliza.
 Actualmente la mayoría de aplicaciones y redes empresariales requieren de una autenticación de usuario para dar acceso a todos los servicios que ofrece o a servicios limitados de acuerdo al rango de usuario dentro de la red.
 
+8. Investigar qué son las redes orientadas y no orientadas a la conexión.
+
+Redes orientadas a la conexión: Una vez que esté establecido el circuito, no importa si las personas, no están en comunicación constante en la llamada o al pendiente de su teléfono, el circuito permanece conectado y los recursos se reservan, hasta que alguna de las personas decida desconectar la llamada. Y se asegura y garantiza la calidad y consistencia de los mensajes transmitidos.
+
+Redes no orientadas a la conexión: Significa una comunicación, en la que en un extremo de la comunicación se transmiten datos al otro lado, sin tener en cuenta que quien los recibe va a estar disponible o listo para ver los datos.Una red en los que un mensaje puede ser enviado desde un punto final a otro sin acuerdo previo.
+
+9. Describa que es la calidad del servicio y que se necesita para mantener una
+buena calidad de servicio para las aplicaciones que lo requieren.
+
+La calidad de servicio en una red (QoS) se centra en la experiencia de usuario y en el correcto uso de los recursos para garantizar una red con servicios seguros, predecibles y mensurables. Para ello, se necesitan mecanismos que permitan garantizar todas estas características. Mecanismos como la asignación de prioridades son fundamentales para la asignación de ancho de banda a los servicios que requieran de un mayor flujo de datos para su correcto desempeño. Estableciendo colas de prioridad ante las tareas más relevantes tanto en términos de acceso y ocupación de red.
